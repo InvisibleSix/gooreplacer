@@ -8,9 +8,9 @@
             "enable": true
         },
         "fonts.googleapis.com": {
-            "dstURL": "fonts.loli.net",
+            "dstURL": "fonts.geekzu.org",
             "kind": "wildcard",
-            "enable": false
+            "enable": true
         },
         "themes.googleusercontent.com": {
             "dstURL": "themes.loli.net",
